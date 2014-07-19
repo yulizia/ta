@@ -37,8 +37,8 @@ import org.rekomendasi.type.Pengguna;
  */
 public class KontrollerDatabase 
 {
-   static String url = "D:\\images\\";
-  //  static String url = "/Users/arnezia/Pictures/images/";
+ //  static String url = "D:\\images\\";
+   static String url = "/Users/arnezia/Pictures/images/";
     public static Pengguna getDetailPengguna(String username, String password) throws SQLException, ClassNotFoundException 
     {
         Pengguna pengguna = null;
