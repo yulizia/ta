@@ -33,6 +33,7 @@ import org.rekomendasi.type.Pengguna;
 /**
  *
  * @author YuliArnezia
+ * bang masih ada salah itu ?
  */
 public class KontrollerDatabase 
 {
