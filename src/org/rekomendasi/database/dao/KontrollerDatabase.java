@@ -35,6 +35,7 @@ import org.rekomendasi.type.Pengguna;
  * @author YuliArnezia
  * bang masih ada salah itu ?
  * bingng bang
+ * gggggg
  */
 public class KontrollerDatabase 
 {
